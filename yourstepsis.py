@@ -1,6 +1,6 @@
 from os import system
-system("git clone https://gitHub.com/kaal0408/Lucifer && cd Lucifer && python3 -m Lucifer")
+system("git clone https://gitHub.com/SUKHPAL443/MAMBA && cd MAMBA && python3 -m MAMBA")
 # if got error
-print(" Sʀʏʏ ᴜɴғᴏʀᴛᴜɴᴀᴛᴇʟʏ ʏᴏᴜ ʜᴀᴠᴇ ɢᴏᴛ ᴇʀʀᴏʀ ᴘʟᴇᴀsᴇ ʀᴇᴘᴏʀᴛ ɪᴛ ᴀᴛ @Lucifer_support_group")
+print(" Sʀʏʏ ᴜɴғᴏʀᴛᴜɴᴀᴛᴇʟʏ ʏᴏᴜ ʜᴀᴠᴇ ɢᴏᴛ ᴇʀʀᴏʀ ᴘʟᴇᴀsᴇ ʀᴇᴘᴏʀᴛ ɪᴛ ᴀᴛ @MAMBA_X_SUPPORT")
 # Script written for stop heroku suspension
 # use with credit else gay
